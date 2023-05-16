@@ -4,10 +4,11 @@
 > Here are my solutions. 
 > Please :star: this repo if it helps you:heart:!
 
-website: http://rosalind.info
-my account: https://github.com/shaifsab
+**website:** [http://rosalind.info](http://rosalind.info)
 
-**problems & solutions:**
+**my account:** http://rosalind.info/users/huihui0228
+
+**problems & solutions:** 
 
 * BA1B: Find the Most Frequent Words in a String [[info](http://rosalind.info/problems/ba1b/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1b.py)]
 * BA1C: Find the Reverse Complement of a String [[info](http://rosalind.info/problems/ba1c/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1c.py)]
