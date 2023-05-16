@@ -4,7 +4,7 @@
 > Here are my solutions. 
 > Please :star: this repo if it helps you:heart:!
 
-## **website:** [http://rosalind.info](http://rosalind.info) <br>
+## **website:** [http://rosalind.info](http://rosalind.info) 
 **my account:** https://github.com/shaifsab
 
 <sub> **problems & solutions:** </sub>
