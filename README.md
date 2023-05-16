@@ -9,6 +9,8 @@
 
 <sub> **problems & solutions:** </sub>
 
+
+<sub>
 * BA1B: Find the Most Frequent Words in a String [[info](http://rosalind.info/problems/ba1b/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1b.py)]
 * BA1C: Find the Reverse Complement of a String [[info](http://rosalind.info/problems/ba1c/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1c.py)]
 * BA1D: Find All Occurrences of a Pattern in a String [[info](http://rosalind.info/problems/ba1d/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1d.py)]
@@ -19,4 +21,4 @@
 * BA1L: Implement PatternToNumber [[info](http://rosalind.info/problems/ba1l/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1l.py)]
 * BA1M: Implement NumberToPattern [[info](http://rosalind.info/problems/ba1m/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1m.py)]
 * BA2C: Find a Profile-most Probable k-mer in a String [[info](http://rosalind.info/problems/ba2c/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba2c.py)]
-* </sub>
+</sub>
