@@ -6,7 +6,7 @@
 
 ## **website:** [http://rosalind.info](http://rosalind.info)
 
-## **my account:** https://github.com/shaifsab
+**my account:** https://github.com/shaifsab
 
 <sub> **problems & solutions:** </sub>
 
