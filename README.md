@@ -8,7 +8,7 @@
 
 ## **my account:** https://github.com/shaifsab
 
-**problems & solutions:** 
+<sub> **problems & solutions:** </sub>
 
 * BA1B: Find the Most Frequent Words in a String [[info](http://rosalind.info/problems/ba1b/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1b.py)]
 * BA1C: Find the Reverse Complement of a String [[info](http://rosalind.info/problems/ba1c/)] [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1c.py)]
